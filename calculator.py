@@ -1,4 +1,4 @@
-# Task 4: Basic Calculator
+# Basic Calculator
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 operator = input("Enter operator (+, -, *, /, %): ")
