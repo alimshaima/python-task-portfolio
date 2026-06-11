@@ -40,3 +40,6 @@ cd python-task-portfolio
 
 ### Install dependencies
 pip install -r requirements.txt
+
+## Author
+Alima Shaima
