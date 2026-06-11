@@ -32,11 +32,11 @@ Python portfolio featuring 13 projects: string reversal, temperature converter, 
 ## Installation
 
 
-# Clone the repository
+###Clone the repository
 git clone https://github.com/alimshaima/python-task-portfolio.git
 
-# Navigate to directory
+### Navigate to directory
 cd python-task-portfolio
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
